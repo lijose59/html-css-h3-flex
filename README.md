@@ -1,1 +1,2 @@
-# html-css-h3-flex
+# Luis Herrera - Flexbox
+Hack 3 utilizando flexbox
